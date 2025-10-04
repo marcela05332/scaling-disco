@@ -1,3 +1,3 @@
-nombre = "ariza montenegro"
+nombre = "majo"
 
 print("Hola " + nombre)
